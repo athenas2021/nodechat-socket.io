@@ -23,7 +23,7 @@ function userLeave(id){
 
 //pega lista de usuarios
 function getRoomUsers(room){
-    return users.filter(user=>user.room=== room);
+    return users.filter(user=> user.room === room);
 }
 
 module.exports = {
