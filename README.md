@@ -3,7 +3,7 @@
 
 ## Instalaçao
 >npm install
-npm run dev
+>npm run dev
 
 ## Uso
 >localhost:3000
