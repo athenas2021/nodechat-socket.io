@@ -63,6 +63,7 @@ function outputMessage(message) {
 
 //adicionar nome da sala atual ao HTML DOM
 function outputRoomName(room) {
+  console.log(room)
   roomName.innerText = room;
 }
 
