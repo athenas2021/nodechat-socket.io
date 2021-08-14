@@ -2,7 +2,7 @@
 Testando chat em tempo real com node.js , express , socket.io
 
 ## Instalaçao
-npm install
+>npm install
 npm run dev
 
 ## Uso
